@@ -1,14 +1,14 @@
 # 3D Parking System Project
 
-### Objective
+## Objective
 Using fundamental data structures and algorithms, solve real-world problems with arrays.
 
-### Problem
+## Problem
 A software development company has a parking building with **two floors**, each floor having **five rows** and **ten columns**. The manager wants to create a **Parking System** to assign each employee their own parking slot. The system allows various operations such as `allocate()`, `deallocate()`, `reallocate()`, `printAll()`, `isFull()`, and `isEmpty()`.
 
 > Each employee has a name, id, and vehicle.  
 
-### Implementation
+## Implementation
 
 - Create a `parking` 3D array that can accommodate 100 vehicles.
 > 2 Floors, 5 Rows, 10 Columns
@@ -33,7 +33,7 @@ public class ParkingSystem {
 
 }
 ```
-### Qualification to pass
+## Qualification to pass
 - [ ] The code should run successfully.
 - [ ] Write all required functions correctly.
 - [ ] Completely define the `Employee` class.
